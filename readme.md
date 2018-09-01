@@ -58,4 +58,8 @@ Also the green ticked signs are referring to course with intake(s) which had bee
 6- At the bottom of the new Review page, the admin can find the total number of attendees in a selected (filtered) range.
 
 7- Shows all 3 tables for Bookings, Intakes, and Course in one whole page.
+
 ```
+
+
+<img width=100% alt="new page" src="https://github.com/aamining/coder-academy-website-readme/blob/master/new_page.png">
