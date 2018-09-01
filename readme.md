@@ -62,4 +62,4 @@ Also the green ticked signs are referring to course with intake(s) which had bee
 ```
 
 
-<img width=100% alt="new page" src="https://github.com/aamining/coder-academy-website-readme/blob/master/new_page.png">
+<img width=50% alt="new page" src="https://github.com/aamining/coder-academy-website-readme/blob/master/new_page.png">
