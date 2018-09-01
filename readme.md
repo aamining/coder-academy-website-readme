@@ -1,11 +1,5 @@
 # Coder Academy Website Internship Project
 
-## Intern:
-
-Ali Asgari
-
-aamining@gmail.com
-
 Actual preparation duration: 5 days
 
 Actual code development: 15 days
