@@ -74,3 +74,8 @@ attendees in a selected (filtered) range.
 
 
 <img width=100% heigh=100% alt="new page" src="https://github.com/aamining/coder-academy-website-readme/blob/master/Coder%20Academy1.jpg">
+
+
+## Model:
+
+<img width=100% heigh=100% alt="new page" src="https://github.com/aamining/coder-academy-website-readme/blob/master/models_complete.jpg">
