@@ -15,10 +15,12 @@ considering the dates, courses and venues.
 
 There is confusion in server side (admin –side) when obtaining information.
 
-Solution plan: Develop a simple page to show and obtain accurate data in a
+## Solution plan:
+
+Develop a simple new page to show and obtain accurate data in a
 glance.
 
-Code Process and Achievements:
+## Code Process and Achievements:
 
 ```
 1- Developed a seeds file for database to meet the following Course, Intake,
