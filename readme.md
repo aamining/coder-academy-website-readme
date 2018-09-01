@@ -1,6 +1,6 @@
-## Coder Academy Website Internship Project
+# Coder Academy Website Internship Project
 
-# Intern:
+## Intern:
 
 Ali Asgari
 
@@ -12,7 +12,7 @@ Actual code development: 15 days
 
 Technology: Ruby, Ruby on Rails, JavaScript, jQuery
 
-# Main Project Object:
+## Main Project Object:
 
 Major problem identified when the website administrators extract the number of attendees,
 
@@ -30,8 +30,8 @@ Course available – No Intakes – No Booking
 Course available, Intake available – No Booking
 Course available, Intake available – One Booking
 Course available, Intake available – Two and more booking for one course and same intake.
-```
-```
+
+
 2- Developed a new page to extract and show accurate data from all mentioned combinations. The new page is developed as figure 1, including three main data tables from top:
 Review Booking
 Intake Booking Review Courses / Intakes
